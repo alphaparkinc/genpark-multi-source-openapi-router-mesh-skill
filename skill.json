@@ -1,0 +1,9 @@
+{
+  "name": "genpark-multi-source-openapi-router-mesh-skill",
+  "version": "1.0.1",
+  "description": "Aggregates multiple OpenAPI specifications into a unified virtual routing mesh with service namespacing and tool dispatch",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "homepage": "https://www.genpark.ai",
+  "entrypoint": "mcp_server.py"
+}
